@@ -26,7 +26,6 @@
 			"name": "SERVER_NAME",
 			"desc": "SERVER_DISCRIPTION",
 			"flags": {
-				"test": true,
 				"editor": true
 			}
 		}
