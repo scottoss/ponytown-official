@@ -1,0 +1,33 @@
+{
+	"title": "NAME",
+	"twitterLink": "TWITTER",
+	"contactEmail": "EMAIL",
+	"port": PORT,
+	"adminPort": APORT,
+	"host": "http://REGION.sparklebot.nl:PORT",
+	"local": "REGION.sparklebot.nl:PORT",
+	"adminLocal": "REGION.sparklebot.nl:APORT",
+	"secret": "gfhfdshtrdhgedryhe4t3y5uwjthr",
+	"token": "sdlfgihsdor8ghor8dgdrgdegrdg",
+	"db": "DATABASE",
+	"oauth": {
+		"google": {
+			"clientID": "GOOGLE_ID",
+			"clientSecret": "GOOGLE_SECRET"
+		}
+	},
+	"assetsPath": "assets-source",
+	"servers": [
+		{
+			"id": "game",
+			"port": PORT,
+			"path": "/s00/ws",
+			"local": "localhost:PORT",
+			"name": "SERVER_NAME",
+			"desc": "SERVER_DISCRIPTION",
+			"flags": {
+				"test": true
+			}
+		}
+	]
+}
